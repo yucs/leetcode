@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>[Add Two Numbers](https://leetcode.com/problems/two-sum/)</td>
+            <td>[Two Sums](https://leetcode.com/problems/two-sum/)</td>
             <td>[python](./Two_Sum.py)</td>
             <td>Medium</td>
         </tr>
@@ -45,7 +45,7 @@
             <td>Medium</td>
         </tr>
          <tr>
-            <td>2</td>
+            <td>7</td>
             <td>[Reverse Integer](https://leetcode.com/problems/reverse-integer/)</td>
             <td>[python](./Reverse_Integer.py)</td>
             <td>Medium</td>
