@@ -44,6 +44,12 @@
             <td>[python](./Longest_Substring_Without_Repeating_Characters.py)</td>
             <td>Medium</td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td>[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)</td>
+            <td>[python](./Median_of_Two_Sorted_Arrays.py)</td>
+            <td>Hard</td>
+        </tr>
          <tr>
             <td>7</td>
             <td>[Reverse Integer](https://leetcode.com/problems/reverse-integer/)</td>
