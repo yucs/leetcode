@@ -7,7 +7,7 @@
 
 ##目的&初衷
  
-**1.没有好的想法写个有意义的项目，大二后基本都没写算法了，看项目源码基本也都是逻辑，抽空刷刷题，为应聘准备吧。**<br />
+**1.没有好的想法写个有意义的项目，大二后基本都没写算法了，看项目源码基本也都是逻辑，那就抽空刷刷题，为应聘准备吧。**<br />
 **2.表达能力本身就欠缺，一面试，就紧张，思维混乱，写快排都写不全。 还是喜欢一个人静下心里 ，才能好好理思路。**<br />
 **3.Linus Torvalds :"Talk is cheap, show me the code. "**<br />
 
@@ -17,7 +17,7 @@
 **2.leetcode通过后，直接复制过来，代码不能直接运行。**<br />
 
  
- ##题目
+##题目
    
  <table>
         <tr>
@@ -26,13 +26,33 @@
             <th>my code</th>
             <th>Difficulty</th>
         </tr>
-         <tr>
+        <tr>
             <td>1</td>
+            <td>[Add Two Numbers](https://leetcode.com/problems/two-sum/)</td>
+            <td>[python](./Two_Sum.py)</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>2</td>
             <td>[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)</td>
             <td>[python](./Add_Two_Numbers.py)</td>
             <td>Medium</td>
         </tr>
+        <tr>
+            <td>3</td>
+            <td>[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)</td>
+            <td>[python](./Longest_Substring_Without_Repeating_Characters.py)</td>
+            <td>Medium</td>
         </tr>
+         <tr>
+            <td>2</td>
+            <td>[Reverse Integer](https://leetcode.com/problems/reverse-integer/)</td>
+            <td>[python](./Reverse_Integer.py)</td>
+            <td>Medium</td>
+        </tr>
+        
+        
+     
       
 </table>
  
