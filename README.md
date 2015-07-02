@@ -48,7 +48,7 @@
             <td>7</td>
             <td>[Reverse Integer](https://leetcode.com/problems/reverse-integer/)</td>
             <td>[python](./Reverse_Integer.py)</td>
-            <td>Medium</td>
+            <td>Easy</td>
         </tr>
         
         
