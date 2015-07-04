@@ -75,6 +75,12 @@
             <td>[python](./algorithms/String_to_Integer%20(atoi).py)</td>
             <td>Easy</td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td>[Palindrome Number) ](https://leetcode.com/problems/palindrome-number/)</td>
+            <td>[python](./algorithms/Palindrome_Number.py)</td>
+            <td>Easy</td>
+        </tr>
         
         
      
