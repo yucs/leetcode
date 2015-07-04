@@ -50,6 +50,18 @@
             <td>[python](./Median_of_Two_Sorted_Arrays.py)</td>
             <td>Hard</td>
         </tr>
+        <tr>
+            <td>5</td>
+            <td>[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)</td>
+            <td>[python](./Longest_Palindromic_Substring.py)</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)</td>
+            <td>[python](./algorithms/ZigZag_Conversion.py)</td>
+            <td>Easy</td>
+        </tr>
          <tr>
             <td>7</td>
             <td>[Reverse Integer](https://leetcode.com/problems/reverse-integer/)</td>
