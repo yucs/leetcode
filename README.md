@@ -69,6 +69,12 @@
             <td>[python](./Reverse_Integer.py)</td>
             <td>Easy</td>
         </tr>
+         <tr>
+            <td>8</td>
+            <td>[String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/)</td>
+            <td>[python](./algorithms/String_to_Integer%20(atoi).py)</td>
+            <td>Easy</td>
+        </tr>
         
         
      
