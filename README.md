@@ -86,7 +86,7 @@
             <td>[Regular Expression Matching ) ](https://leetcode.com/problems/regular-expression-matching/)</td>
             <td>---</td>
             <td>Hard</td>
-            <td>动态规划</td>
+            <td>超时，只能用动态规划</td>
         </tr>
          <tr>
             <td>11</td>
