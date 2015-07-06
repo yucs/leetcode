@@ -111,6 +111,13 @@
             <td>[c](./algorithms/Longest_Common_Prefix.c)</td>
             <td>Easy</td>
         </tr>
+        <tr>
+            <td>15</td>
+            <td>[3Sum ](https://leetcode.com/problems/3sum/)</td>
+            <td>[c](./algorithms/3Sum.py)</td>
+            <td>Medium</td>
+             <td>性能差，方法不好，待重写</td>
+        </tr>
         
         
      
