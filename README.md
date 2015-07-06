@@ -9,7 +9,6 @@
 ##目的&初衷
  
 **1.没有好的想法写个有意义的项目，大二后基本都没写算法了，看项目源码基本也都是逻辑，那就抽空刷刷题，为应聘准备吧。**<br />
-**2.表达能力本身就欠缺，一面试，就紧张，思维混乱，写快排都写不全。 还是喜欢一个人静下心里 ，才能好好理思路。**<br />
 **3.Linus Torvalds :"Talk is cheap, show me the code. "**<br />
 
 
@@ -99,6 +98,12 @@
             <td>[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)</td>
             <td>[python](./algorithms/Integer_to_Roman.py)</td>
             <td>Medium</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>[Roman to Integer ](https://leetcode.com/problems/roman-to-integer/)</td>
+            <td>[python](./algorithms/Roman_to_Integer.py)</td>
+            <td>Easy</td>
         </tr>
         
         
