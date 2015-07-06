@@ -108,7 +108,7 @@
         <tr>
             <td>14</td>
             <td>[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)</td>
-            <td>[python](./algorithms/Longest_Common_Prefix.c)</td>
+            <td>[c](./algorithms/Longest_Common_Prefix.c)</td>
             <td>Easy</td>
         </tr>
         
