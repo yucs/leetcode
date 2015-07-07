@@ -118,6 +118,12 @@
             <td>Medium</td>
              <td>性能差，方法不好，待重写</td>
         </tr>
+        <tr>
+            <td>16</td>
+            <td>[3Sum Closest ](https://leetcode.com/problems/3sum-closest/)</td>
+            <td>[python](./algorithms/3Sum_Closest.py)</td>
+            <td>Medium</td>
+        </tr>
         
         
      
