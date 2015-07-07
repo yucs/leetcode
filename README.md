@@ -121,7 +121,7 @@
         <tr>
             <td>16</td>
             <td>[3Sum Closest ](https://leetcode.com/problems/3sum-closest/)</td>
-            <td>[python](./algorithms/3Sum_Closest.py)</td>
+            <td>[python](./3Sum_Closest.py)</td>
             <td>Medium</td>
         </tr>
         
