@@ -130,7 +130,11 @@
             <td>[c++](./algorithms/Letter_Combinations_of_a_Phone_Number.cpp)</td>
             <td>Medium</td>
         </tr>
-        
+            <td>19</td>
+            <td>[Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)</td>
+            <td>[c++](./algorithms/Remove_Nth_Node_From_End_of_List.cpp)</td>
+            <td>Easy</td>
+        </tr>
         
      
       
