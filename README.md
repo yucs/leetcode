@@ -135,7 +135,11 @@
             <td>[c++](./algorithms/Remove_Nth_Node_From_End_of_List.cpp)</td>
             <td>Easy</td>
         </tr>
-        
+         <td>20</td>
+            <td>[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)</td>
+            <td>[c++](./algorithms/Valid_Parentheses.py)</td>
+            <td>Easy</td>
+        </tr>
      
       
 </table>
