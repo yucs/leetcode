@@ -137,7 +137,7 @@
         </tr>
          <td>20</td>
             <td>[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)</td>
-            <td>[c++](./algorithms/Valid_Parentheses.py)</td>
+            <td>[python](./algorithms/Valid_Parentheses.py)</td>
             <td>Easy</td>
         </tr>
      
