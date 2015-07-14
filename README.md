@@ -140,6 +140,12 @@
             <td>[python](./algorithms/Valid_Parentheses.py)</td>
             <td>Easy</td>
         </tr>
+         <td>21</td>
+            <td>[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)</td>
+            <td>[c](./algorithms/Merge_Two_Sorted_Lists.c)</td>
+            <td>Easy</td>
+        </tr>
+     
      
       
 </table>
