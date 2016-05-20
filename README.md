@@ -1,12 +1,8 @@
 # leetcode
 
 ##LeetCode Online Judge :  https://leetcode.com/
-## my  blog  ： [两日当头，鱼逆游山高处](http://blog.csdn.net/u010129347)
- 
-##my email : 928981881@qq.com
 
-
-**3.Linus Torvalds :"Talk is cheap, show me the code. "**<br />
+**Linus Torvalds :"Talk is cheap, show me the code. "**<br />
 
 
  
@@ -18,6 +14,18 @@
             <th>Title</th>
             <th>my code</th>
             <th>Difficulty</th>
+        </tr>
+         <tr>
+            <td>349</td>
+            <td>[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)</td>
+            <td>[golang](./algorithms/Intersection_of_Two_Arrays.go)</td>
+            <td>Easy</td>
+        </tr>
+         <tr>
+            <td>347</td>
+            <td>[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)</td>
+            <td>[golang](./algorithms/Top_K_Frequent_Elements.go)</td>
+            <td>Medium</td>
         </tr>
         <tr>
             <td>1</td>
